@@ -1,0 +1,17 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "tinder",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Divyanshu Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
